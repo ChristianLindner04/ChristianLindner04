@@ -7,4 +7,4 @@ Mostly self taught developer with knowledge of:
 - JS (Node and Electron)
 - C/C++
 - Java
-
+- Swift
